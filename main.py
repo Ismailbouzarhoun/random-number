@@ -1,3 +1,6 @@
+import random
+
+
 def random_number(number_of_digits):
 
     #this give you the the smallest number for number of digits you enter 
